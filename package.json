@@ -1,0 +1,12 @@
+{
+  "name": "servjs",
+  "version": "1.0.0",
+  "description": "http content delivery",
+  "author": "shaynlink",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "eslint": "^7.32.0",
+    "eslint-config-google": "^0.14.0"
+  }
+}
